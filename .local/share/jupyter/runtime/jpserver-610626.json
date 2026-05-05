@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 610626,
+  "port": 5531,
+  "root_dir": "/home/oscholz",
+  "secure": false,
+  "sock": "",
+  "token": "082958dba356c07c5dad439fd75be482d7816d7aedb40d0a",
+  "url": "http://passat:5531/",
+  "version": "2.17.0"
+}

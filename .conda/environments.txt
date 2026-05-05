@@ -1,0 +1,1 @@
+/home/oscholz/miniforge3/envs/modis_env
