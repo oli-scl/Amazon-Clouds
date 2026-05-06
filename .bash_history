@@ -398,3 +398,33 @@ screen -ls
 screen -r jupyter1 
 screen -r crop
 exit
+screen -ls
+sceen -r jupyter1
+screen -r jupyter1
+jupyter server list
+conda activate modis_env
+jupyter server list
+git --version
+ssh-keygen -t ed25519 -C "ov35gabo@studserv.uni-leipzig.de"
+cat ~/.ssh/id_ed25519.pub
+ssh -T git@github.com
+git config --global user.name "oli-scl"
+git config --global user.email "ov35gabo@studserv.uni-leipzig.de"
+cd /home/oscholz
+ls
+git init
+git add
+git config --global init.defaultBranch main
+git add
+git add .
+ls
+echo "miniforge3/" >> .gitignore
+echo "Miniforge3-Linux-x86_64.sh" >> .gitignore
+echo "Untitled Folder/" >> .gitignore
+git add .
+git commit -m "erster commit"
+git remote add origin git@github.com:oli-scl/Amazon-Clouds.git
+git branch -M main
+git push -u origin main
+ls
+exit
