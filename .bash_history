@@ -428,3 +428,96 @@ git branch -M main
 git push -u origin main
 ls
 exit
+/home/oscholz
+cd /home/oscholz
+ls
+nano meiv2.data 
+ls
+git add .
+git commit -m "DoF, ENSO-Kor"
+ls -hr
+-ls 
+git push
+ls
+du -h --max-depth=1 | sort -hr
+cd /projekt1/ag_maahn/data_obs_nobackup/
+ls
+cd modis
+ls
+cd ..
+cd amazonas/
+ls
+cd ../modis/MCD06COSP_D3/
+ls
+cd merged
+ls
+exit
+cd /home/oscholz
+sl
+ls
+mkdir plots
+mv *.png plots/*.png
+mv *.png plots
+ls
+cd plots
+ls
+rm *.png
+ls
+mkdir cf_low
+mkdir cot_low
+mv cot_low cot_liq
+ls
+cd /projekt1/ag_maahn/data_obs_nobackup/modis
+ls
+cd MCD06COSP_D3/
+ls
+cd Amazon_cropped/
+ls
+cd ../merged/
+ls
+cd /home/oscholz/plots/
+cot_liq/
+cd cot_liq/
+ls
+rm bivariate_map_cot_liq.png 
+ls
+cd ..
+ls
+mkdir forrest
+mv forrest forest
+ls
+cd forest
+ls
+cd ..
+ls
+mc cf_low cmf_low
+ls
+10
+1
+cd /home/oscholz/
+ls
+cd plots
+ls
+mv cf_low cmf_low
+ls
+cd /projekt1/ag_maahn/data_obs_nobackup/modis
+ls
+cd MCD06COSP_D3/
+ls
+nano crop_amazon.py 
+ls
+cd Amazon_cropped
+ls
+rm -r *
+rm -rf Amazon_cropped/*
+ls Amazon_cropped
+ls
+rm 2002
+rm -r 2002
+rm -r *
+ls
+cd..
+cd ..
+ls
+screen -ls
+screen -r crop
