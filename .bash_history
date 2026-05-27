@@ -521,3 +521,73 @@ cd ..
 ls
 screen -ls
 screen -r crop
+cd /projekt1/ag_maahn/data_obs_nobackup/modis/MCD06COSP_D3/
+ls
+cd Amazon_cropped/
+ls
+cd merged
+ls
+cd ..
+ls
+cd merged
+ls
+cd ..
+ls
+merged ls
+cd merged ls
+cd merged 
+ls
+cd ../Amazon_cropped/
+ls
+cd merged
+ls
+cd ../2002
+ls
+cd ..
+rm -r merged
+cd /home/oscholz/
+cd plots
+mkdir cps_liq
+cd
+cd /home/oscholz/plots
+ls
+rm cmf_low/*.png
+rm cot_liq/*.png
+rm cps_liq/*.png
+cd ../..
+cd oscholz/
+git add
+git add .
+git commit -m "order"
+git push
+conda activate modis_env
+pip install xeofs 
+exit
+conda activate modis_env
+pip install cdsapi
+cd /home/oscholz
+nano wind_download.py
+cd /projekt1/ag_maahn/
+ls
+cd data_obs_nobackup/
+ls
+cd ..
+mkdir wind_reanalysis
+pip install os
+cd /home/oscholz
+ls
+nano wind_download.py
+cd /projekt1/ag_maahn/
+ls
+rm -r wind_reanalysis
+ls
+cd ~/oscholz
+cd ~/plots
+cd cmf_low/
+ls
+ls
+cd plots
+ls
+cd cmf_low/
+ls
+rm spatial_crosscorr_DoD_cmf_low_wet.png
