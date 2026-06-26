@@ -591,3 +591,63 @@ ls
 cd cmf_low/
 ls
 rm spatial_crosscorr_DoD_cmf_low_wet.png
+conda activate modis_env
+git add .
+git commit -m "2"
+git push
+cd ~/plots
+ls
+mkdir means
+ls
+exit
+screen -ls
+screen -S Jupyter
+~
+ls
+cd plots
+ls
+cd cmf_low
+ls
+mkdir var_start_year
+rm var_start_year var_years
+mv var_start_year var_years
+ls
+ls var_years/
+ls
+ls var_years/
+ls
+ls var_years/
+cd plots
+ls
+cd cmf_low/
+ls
+ls var_years
+cd var_years/
+ls
+rm *.png
+ls
+cd ../..
+cd cot_liq/
+ls
+mkdir var_years
+cd ..
+cd cps_liq/
+mkdir var_years
+cd ../cmf_low/var_years/
+ls
+rm *.png
+ls
+cd Untitled\ Folder/
+ls
+cd
+rm -r Untitled\ Folder/
+ls
+cd plots
+cd cmf_low/
+cd var_years/
+ls
+cd ..
+cd cot_liq/
+ls
+cd var_years/
+ls
