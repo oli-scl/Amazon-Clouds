@@ -1,0 +1,13 @@
+{
+  "shell_port": 35681,
+  "iopub_port": 35071,
+  "stdin_port": 59813,
+  "control_port": 39353,
+  "hb_port": 54033,
+  "ip": "127.0.0.1",
+  "key": "9d68108a-8986a66a6be299c58aa70a69",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/oscholz/forest_test.ipynb"
+}

@@ -1,0 +1,13 @@
+{
+  "shell_port": 35231,
+  "iopub_port": 45017,
+  "stdin_port": 45805,
+  "control_port": 51641,
+  "hb_port": 33251,
+  "ip": "127.0.0.1",
+  "key": "44733abc-ec0914662a8a95bcb541c0f5",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/oscholz/overview_modis_data.ipynb"
+}

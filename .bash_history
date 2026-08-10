@@ -651,3 +651,187 @@ cd cot_liq/
 ls
 cd var_years/
 ls
+ls -hr
+du -sh *
+cd plots
+ls
+cd forest
+ls
+rm DoD.png 
+cd ~
+git add .
+git commit "FKT"
+git commit -m "FKT"
+git push
+cd plots
+ls
+mkdir cwp_liq
+ls
+cd plots
+cd cps_liq/
+rm -r var
+ls
+rm -r var_years
+cd ../cmf_low/
+rm -r var_years
+cd ../cot_liq/
+rm -r var_years
+ls
+rm *DOD*
+rm *DoD*
+ls
+cd ../cps_liq/
+rm *DoD*
+cd ../cmf_low/
+rm *DoD*
+cd ../cwp_liq/
+ls
+cd /projekt1/ag_maahn/data_obs_nobackup/
+ls
+cd arm_oli
+ls
+cd ..
+ls
+cd modis
+ls
+cd MCD06COSP_D3/
+ls
+cd merged
+ls
+cd ../Amazon_cropped
+ls
+ls 2002
+cd ..
+cd 2002
+ls
+cd ..
+ls
+nano crop_amazon.py 
+cd merged
+ls
+cd /projekt1/ag_maahn/data_obs_nobackup/modis/MCD06COSP_D3/
+ls
+cd merged
+ls
+cd ..
+cd ~/plots
+ls
+mkdir cmf_low_pcl
+rm -r cmf_low_pcl
+mkdir cot_liq_pcl
+mkdir cps_liq_pcl
+mkdir cwp_liq_pcl
+ls
+cd plots/means
+mkdir diffs
+ls
+rm Mean_c*.png
+ls
+ls diffs
+rm c*.png
+ls
+cd diffs
+ls
+rm c*.png
+ls
+cd ..
+ls
+git add .
+git commit -m 'V5'
+git push
+plots
+cd plots
+ls
+cd cmf_low/
+ls
+cd /projekt1/ag_maahn/data_obs_nobackup/amazonas/shape
+ls
+mkdir raisg
+mv Lim_*.* raisg
+ls
+ls raisg
+ls
+cd ..
+ls
+mv biogeo shape
+ls
+ls shape
+cd shape/biogeo
+ls
+conda activate modis_env
+conda install -c conda-forge geopandas
+conda install -c conda-forge regiomask
+conda install -c conda-forge regionmask
+cd /projekt1/ag_maahn/
+ls
+cd data_obs_nobackup/
+ls
+cd amazonas/
+ls
+mkdir shape
+move Lim_Raisg.* shape
+mv Lim_Raisg.* shape
+ls
+ls shape
+cd /projekt1/ag_maahn/data_obs_nobackup/modis
+ls
+jupyter notebook --ip=0.0.0.0 --port 5531 --no-browser
+conda activate modis_env
+jupyter notebook --ip=0.0.0.0 --port 5531 --no-browser
+screen -S jupyter
+exit
+ls
+cd plots
+ls
+cdcm
+cd cmf_low/
+ls
+rm *
+mkdir cor
+cd ..
+cd cot_liq
+sl
+ls
+rm *
+kdir cor
+mkdir cor
+ls
+cd ..
+ls
+rm -r *_pcl
+ls
+cd cps_liq/
+ls
+rm *
+mkdir cor
+cd ..
+cd cwp_liq/
+rm *
+mkdir cor
+cd ..
+cd means
+ls
+rm -r *
+ls
+mkdir diffs
+ls
+cd ..
+ls
+cd forest
+ls
+cd /home
+ls
+cd /projekt1/ag_maahn/data_obs_nobackup/
+cd modis
+ls
+cd plots
+ls
+cd means
+ls
+cd plots/forest
+ls
+conda activate modis_env
+screen -ls
+screen -r jupyter
+ls
+nano Trends_due_forestloss.ipynb 

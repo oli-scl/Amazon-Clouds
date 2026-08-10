@@ -1,0 +1,13 @@
+{
+  "shell_port": 58257,
+  "iopub_port": 33785,
+  "stdin_port": 36687,
+  "control_port": 41193,
+  "hb_port": 38949,
+  "ip": "127.0.0.1",
+  "key": "7975f422-9c4bf10807c93ab7d451027f",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/oscholz/concat.ipynb"
+}
