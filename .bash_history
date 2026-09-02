@@ -835,3 +835,45 @@ screen -ls
 screen -r jupyter
 ls
 nano Trends_due_forestloss.ipynb 
+ls
+rm *png
+ls
+rm -r wind_download.py 
+ls
+git ignore meiv2.data
+git --help
+git add .
+git commit -m 'V7'
+git push
+git pull origin main --allow-unrelated-histories
+git push
+ls
+cd plots
+ls
+ls cmf_low/
+ls means/diffs
+ls
+ls cmf_low
+ls
+cd plots
+ls
+cd cwp_liq/
+ls
+cd plots
+ls
+ls cmf_low/
+ls cot_liq/
+screen -ls
+screen -r jupyter
+exit
+screen -ls
+screen -S jupyter
+sreen -r jupyter
+screen -r jupyter
+ls
+exit
+ls
+cd plots/
+ls
+ls cmf_low/
+exit
