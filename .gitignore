@@ -2,3 +2,19 @@ miniforge3/
 Miniforge3-Linux-x86_64.sh
 Untitled Folder/
 meiv2.data
+.ssh/
+.cache/
+.conda/
+.config/
+.jupyter/
+.ipython/
+.local/
+.bash*
+.profile
+.face*
+.wget-hsts
+.ipynb_checkpoints/
+plots/
+*.png
+*.nc
+.gitconfig
